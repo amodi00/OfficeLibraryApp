@@ -1,0 +1,6 @@
+ID;Title;ISBN;PublicationDate;Genre;Price;Author_ID
+3d1f596c-42f0-4577-b923-806af133017d;The Great Gatsby;978-3-16-148410-0;2021-06-27;Fiction;12.99;a454d854-8a19-44fa-b825-8965df0088a1
+55494e8e-0005-41a9-8a0a-7db65f677be1;To Kill a Mockingbird;978-3-16-148410-1;2021-06-28;Fiction;10.99;bba1c3c0-cd74-455e-a50a-e6fbc8e88456
+5af607dc-5fcf-417b-9541-4313882e5960;1984;978-3-16-148410-2;2021-06-29;Science Fiction;9.99;efb407d0-112e-4402-8f59-c4c6e58b8c07
+e55e42e3-ae4c-4c33-a9e5-fed699c45fd9;Pride and Prejudice;978-3-16-148410-3;2021-06-30;Romance;8.99;c549db85-1061-430c-80f4-40554f2ad413
+8bba1dd1-cffc-429e-b068-5b724192db6e;The Catcher in the Rye;978-3-16-148410-4;2021-07-01;Fiction;11.99;90b51e43-c90c-424b-bcbb-3346f852ee7a
